@@ -1,0 +1,5 @@
+FALCON =  Firmament Dynamic Cyberphysical
+DOLPHIN = Energetic Transoceanic Pioneering              F*D*C*E*T*P
+
+
+
